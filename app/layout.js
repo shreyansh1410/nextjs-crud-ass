@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Task Management App",
+  title: "Task Management App by Shreyansh",
   description: "CRUD Task Management Application",
 };
 
